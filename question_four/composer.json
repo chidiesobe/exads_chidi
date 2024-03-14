@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Exads\\": "vendor/exads/ab-test-data/src/",
+            "PromotionsData\\": "PromotionsData"
+        }
+    },
+    "require": {
+        "exads/ab-test-data": "^1.0"
+    }
+}

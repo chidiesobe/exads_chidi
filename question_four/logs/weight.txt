@@ -1,0 +1,12 @@
+{
+    "Simple Base": 63,
+    "Simple Risky": 34,
+    "Control Group": 24,
+    "Test Red Square": 21,
+    "Test Red Round": 18,
+    "Test Green Square": 20,
+    "Test Dark Round": 13,
+    "Test A": 50,
+    "Test B": 23,
+    "Test C": 25
+}
