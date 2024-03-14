@@ -1,4 +1,4 @@
-### Dynamic Adjustment of Upper Limit for Promotions
+
 
 Update the config.php files to match your database configuration
 
